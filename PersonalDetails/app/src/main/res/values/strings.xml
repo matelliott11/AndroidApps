@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Personal Details</string>
+    <string name="SubmitInputButton">ENTER</string>
+    <string name="InputInfoText">Input your Name Here</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Matt\'s First App</string>
+    <string name="colorInputHint">What is your favorite colour?</string>
+    <string name="SubmitButtonText">Submit</string>
+</resources>
